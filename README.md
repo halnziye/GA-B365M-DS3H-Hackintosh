@@ -28,6 +28,10 @@
 | CSM Support | Enable -> Disable |
 | VT-d | Enable -> Disable |
 
+## Issues
+The GPU name is just a simple rename.
+Resources do not contain anything due to capacity. You must add them yourself.
+
 ## Working
 Everything I use works.
 
