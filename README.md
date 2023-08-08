@@ -29,8 +29,9 @@
 | VT-d | Enable -> Disable |
 
 ## Issues
-1. The GPU name is just a simple rename.
-2. The resources folder and serial number do not exist. Please add it yourself.
+The GPU name is just a simple rename.
+
+The resources folder and serial number do not exist. Please add it yourself.
 
 ## Working
 Everything I use works.
