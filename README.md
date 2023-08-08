@@ -30,7 +30,7 @@
 
 ## Issues
 1. The GPU name is just a simple rename.
-2. Resources do not contain anything due to capacity. You must add them yourself.
+2. The resources folder and serial number do not exist. Please add it yourself.
 
 ## Working
 Everything I use works.
