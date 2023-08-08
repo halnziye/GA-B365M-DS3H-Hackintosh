@@ -29,8 +29,8 @@
 | VT-d | Enable -> Disable |
 
 ## Issues
-The GPU name is just a simple rename.
-Resources do not contain anything due to capacity. You must add them yourself.
+1. The GPU name is just a simple rename.
+2. Resources do not contain anything due to capacity. You must add them yourself.
 
 ## Working
 Everything I use works.
