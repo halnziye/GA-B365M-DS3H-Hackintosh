@@ -16,13 +16,17 @@
 | GPU | AMD Radeon RX 580 4GB |
 
 ## Applied Version
-- BIOS: F7
-- OpenCore: 0.9.2
-- macOS: Ventura
+| Name | Description |
+| - | - |
+| BIOS | F7 |
+| OC | 0.9.2 |
+| OS | macOS Ventura |
 
 ## BIOS Settings
-- CSM Support: Enable -> Disable
-- VT-d: Enable -> Disable
+| Name | Description |
+| - | - |
+| CSM Support | Enable -> Disable |
+| VT-d | Enable -> Disable |
 
 ## Working
 Everything I use works.
