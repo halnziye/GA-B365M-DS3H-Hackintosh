@@ -1,4 +1,4 @@
-# B365M-DS3H-Hackintosh
+# GA B365M DS3H Hackintosh
 ![image](https://github.com/yopoplay/B365M-DS3H-Hackintosh/assets/105102345/9693a832-6db4-473e-a170-007efa85182a)
 ![image](https://github.com/yopoplay/B365M-DS3H-Hackintosh/assets/105102345/701bc9b6-b804-4832-b6e0-16a43e7f1053)
 ![image](https://github.com/yopoplay/B365M-DS3H-Hackintosh/assets/105102345/702db51a-6261-45c2-aeab-0ac7fd25c906)
